@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: arial;
+    background: url('https://pbs.twimg.com/media/ERDQxArW4AI-sQK?format=jpg&name=large') ; 
+    background-position: no-repeat center top;
+    background-size: 100vw 100vh;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.form-password {
+    width: 400px;
+    height: 280px;
+    background: #1c1b1ba9;
+    margin: auto;
+    margin-top: 180px;
+    box-shadow: 7px 13px 37px #000;
+    padding: 20px 30px;
+    border-top: 4px solid #017bab;
+    color: white;
+  }
+  
+.form-password h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+.controls {
+    width: 100%;
+    background: #252323;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+  }
+  
+.form-password p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+.form-password a {
+    color: white;
+    text-decoration: none;
+  }
+  
+.form-password a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+.form-password .botons {
+    width: 100%;
+    background: #017bab ;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    margin-bottom: 5px;
+  }

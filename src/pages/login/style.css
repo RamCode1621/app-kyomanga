@@ -1,0 +1,14 @@
+.containerLoginForm{
+    background: url('https://areajugones.sport.es/wp-content/uploads/2021/09/jagaaan-manga.jpg'); 
+    background-size: 100vw 100vh;
+    background-position: no-repeat center top;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,12 @@
+.primarySubmit {
+    width: 105%;
+    height: 40px;
+    background: #017bab ;
+    border: none;
+    color: white;
+    /* margin-bottom: 16px; */
+}
+
+.primarySubmit:hover{
+    cursor: pointer;
+}

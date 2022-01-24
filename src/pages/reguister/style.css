@@ -1,0 +1,15 @@
+.containerForReguister{
+    font-family: arial;
+    background: url('https://pbs.twimg.com/media/El80bk1X0AAKJjH?format=png&name=large') ; 
+    background-position: no-repeat center top;
+    background-size: 100vw 100vh;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
