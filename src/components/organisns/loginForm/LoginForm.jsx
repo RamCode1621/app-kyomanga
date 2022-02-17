@@ -3,11 +3,11 @@ import TextInput from '../../atons/inputs/text/TextInput'
 import TitleForm from '../../atons/titles/titleForm/TitleForm'
 import SubmitBotton from '../../atons/bottons/submit/SubmitBotton'
 import PasswordInput from '../../atons/inputs/password/PasswordInput'
-
 import './style.css'
 import LinkForm from '../../atons/links/linkForm/LinkForm'
 
 function LoginForm() {
+
     return (
         <form className="loginForm">
             <TitleForm text="Formulario de login"/>

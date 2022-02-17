@@ -3,7 +3,7 @@ import './style.css'
 
 function SubmitBotton({text}) {
     return (
-        <input className="primarySubmit" type="submit" value={text}/>
+        <button className="primarySubmit" type="submit" value={text}>Login</button>
     )
 }
 

@@ -1,0 +1,12 @@
+.linkDashboard{
+    color: white;
+    text-decoration: none;
+    margin: 20px 0;
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+.linkDashboard:hover{
+    background-color: rgb(80, 77, 77);
+    border-radius: 15px;
+}
